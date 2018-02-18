@@ -1,0 +1,1 @@
+String Splitter will take a string of arbitrary length, and divide it into lines which are no-longer than the specified length. It will split on a space if possible; or will break the word (only if) there’s no alternative.
